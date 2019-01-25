@@ -1,0 +1,41 @@
+targets = [ "//:range" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-conversion"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-filesystem"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-fusion"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-multi_index"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-proto"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-spirit"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-variant"
+version = "branch=master"
