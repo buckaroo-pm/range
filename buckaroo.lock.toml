@@ -126,7 +126,7 @@ revision = "c0c241d85df00f7f081180aec6711812136be89e"
 
 [lock."github.com/buckaroo-pm/boost-fusion"]
 versions = [ "branch=master" ]
-revision = "706a76db5d04f34aeca5a2894ce6060e9044348e"
+revision = "5582bb48c213ed3f9d41c2e3f700c78929132fa7"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]
